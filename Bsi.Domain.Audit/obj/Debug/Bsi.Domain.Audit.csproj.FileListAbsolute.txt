@@ -1,0 +1,5 @@
+D:\Project\BSI\Source Code\BSI\Bsi.Domain.Audit\bin\Debug\Bsi.Domain.Audit.dll
+D:\Project\BSI\Source Code\BSI\Bsi.Domain.Audit\bin\Debug\Bsi.Domain.Audit.pdb
+D:\Project\BSI\Source Code\BSI\Bsi.Domain.Audit\obj\Debug\Bsi.Domain.Audit.csproj.CoreCompileInputs.cache
+D:\Project\BSI\Source Code\BSI\Bsi.Domain.Audit\obj\Debug\Bsi.Domain.Audit.dll
+D:\Project\BSI\Source Code\BSI\Bsi.Domain.Audit\obj\Debug\Bsi.Domain.Audit.pdb

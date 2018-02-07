@@ -1,0 +1,12 @@
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\BSI.BusinessLogic.Tests.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\BSI.BusinessLogic.Tests.pdb
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\obj\Debug\BSI.BusinessLogic.Tests.csproj.CoreCompileInputs.cache
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\obj\Debug\BSI.BusinessLogic.Tests.dll
+D:\Project\BSI\Source Code\BSI\BSI.BusinessLogic.Tests\obj\Debug\BSI.BusinessLogic.Tests.pdb

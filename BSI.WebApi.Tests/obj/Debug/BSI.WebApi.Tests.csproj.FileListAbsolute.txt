@@ -1,0 +1,13 @@
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\BSI.WebApi.Tests.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\BSI.WebApi.Tests.pdb
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\obj\Debug\BSI.WebApi.Tests.csprojResolveAssemblyReference.cache
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\obj\Debug\BSI.WebApi.Tests.csproj.CoreCompileInputs.cache
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\obj\Debug\BSI.WebApi.Tests.dll
+D:\Project\BSI\Source Code\BSI\BSI.WebApi.Tests\obj\Debug\BSI.WebApi.Tests.pdb
