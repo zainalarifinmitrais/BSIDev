@@ -1,0 +1,4 @@
+F:\Project\BSI\04 Construction\BSIDev\BSI.Domain\bin\Debug\BSI.Domain.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.Domain\bin\Debug\BSI.Domain.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.Domain\obj\Debug\BSI.Domain.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.Domain\obj\Debug\BSI.Domain.pdb

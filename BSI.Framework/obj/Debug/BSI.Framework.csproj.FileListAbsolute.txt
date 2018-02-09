@@ -1,0 +1,5 @@
+F:\Project\BSI\04 Construction\BSIDev\BSI.Framework\bin\Debug\BSI.Framework.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.Framework\bin\Debug\BSI.Framework.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.Framework\obj\Debug\BSI.Framework.csprojResolveAssemblyReference.cache
+F:\Project\BSI\04 Construction\BSIDev\BSI.Framework\obj\Debug\BSI.Framework.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.Framework\obj\Debug\BSI.Framework.pdb

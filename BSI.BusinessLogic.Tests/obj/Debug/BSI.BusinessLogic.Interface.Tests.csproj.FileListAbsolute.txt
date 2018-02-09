@@ -1,0 +1,11 @@
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\BSI.BusinessLogic.Tests.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\BSI.BusinessLogic.Tests.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\obj\Debug\BSI.BusinessLogic.Tests.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.BusinessLogic.Tests\obj\Debug\BSI.BusinessLogic.Tests.pdb
