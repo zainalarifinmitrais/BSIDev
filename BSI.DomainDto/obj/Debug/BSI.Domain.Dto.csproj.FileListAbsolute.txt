@@ -4,3 +4,8 @@ D:\Project\BSI\Source Code\BSI\BSI.DomainDto\obj\Debug\BSI.Domain.Dto.csprojReso
 D:\Project\BSI\Source Code\BSI\BSI.DomainDto\obj\Debug\BSI.Domain.Dto.csproj.CoreCompileInputs.cache
 D:\Project\BSI\Source Code\BSI\BSI.DomainDto\obj\Debug\BSI.DomainDto.dll
 D:\Project\BSI\Source Code\BSI\BSI.DomainDto\obj\Debug\BSI.DomainDto.pdb
+G:\PROJECTS\BSI\Research\BSITest\BSI.DomainDto\bin\Debug\BSI.DomainDto.dll
+G:\PROJECTS\BSI\Research\BSITest\BSI.DomainDto\bin\Debug\BSI.DomainDto.pdb
+G:\PROJECTS\BSI\Research\BSITest\BSI.DomainDto\obj\Debug\BSI.Domain.Dto.csprojResolveAssemblyReference.cache
+G:\PROJECTS\BSI\Research\BSITest\BSI.DomainDto\obj\Debug\BSI.DomainDto.dll
+G:\PROJECTS\BSI\Research\BSITest\BSI.DomainDto\obj\Debug\BSI.DomainDto.pdb

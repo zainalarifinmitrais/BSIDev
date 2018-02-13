@@ -1,0 +1,7 @@
+2018-02-08 10:21:44.2017|INFO|BSI.WebApi.Helper.NLogger|JSON
+Method: GET
+URL: http://localhost:62785/ExNull
+Controller : BSI.WebApi.Controllers.ValuesController
+Action : GetExceptionNull
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
