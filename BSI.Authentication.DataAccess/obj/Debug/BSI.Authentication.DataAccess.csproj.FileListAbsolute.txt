@@ -1,0 +1,9 @@
+F:\Project\BSI\BSI.Authentication\DataAccess\bin\Debug\DataAccess.dll
+F:\Project\BSI\BSI.Authentication\DataAccess\bin\Debug\DataAccess.pdb
+F:\Project\BSI\BSI.Authentication\DataAccess\obj\Debug\DataAccess.dll
+F:\Project\BSI\BSI.Authentication\DataAccess\obj\Debug\DataAccess.pdb
+F:\Project\BSI\BSI.Authentication\DataAccess\obj\Debug\BSI.Authentication.DataAccess.csprojResolveAssemblyReference.cache
+F:\Project\BSI\BSI.Authentication\Bsi.Authentication.DataAccess\bin\Debug\DataAccess.dll
+F:\Project\BSI\BSI.Authentication\Bsi.Authentication.DataAccess\bin\Debug\DataAccess.pdb
+F:\Project\BSI\BSI.Authentication\Bsi.Authentication.DataAccess\obj\Debug\DataAccess.dll
+F:\Project\BSI\BSI.Authentication\Bsi.Authentication.DataAccess\obj\Debug\DataAccess.pdb

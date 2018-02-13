@@ -1,0 +1,237 @@
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\ApplicationInsights.config
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\csc.exe
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\vbc.exe
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\VBCSCompiler.exe
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\ResourceServer.Api.dll.config
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\ResourceServer.Api.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\ResourceServer.Api.pdb
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\BussinessLogic.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\DataAccess.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.DependencyCollector.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.Web.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.WindowsServer.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.ApplicationInsights.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Cors.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Security.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Security.Jwt.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Newtonsoft.Json.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Owin.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Net.Http.Formatting.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Cors.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Helpers.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Http.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Http.Owin.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Http.WebHost.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Mvc.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Razor.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.WebPages.Deployment.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.WebPages.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.WebPages.Razor.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\WebActivatorEx.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Dapper.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\BussinessLogic.pdb
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\DataAccess.pdb
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.DependencyCollector.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.Web.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.AI.WindowsServer.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.ApplicationInsights.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Cors.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Security.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Security.Jwt.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Newtonsoft.Json.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Net.Http.Formatting.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Helpers.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Http.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Http.Owin.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Http.WebHost.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Mvc.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.Razor.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.WebPages.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.WebPages.Deployment.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\System.Web.WebPages.Razor.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\bin\Dapper.xml
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\obj\Debug\BSI.AuthResourceServer.Api.csprojResolveAssemblyReference.cache
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\obj\Debug\ResourceServer.Api.dll
+F:\Project\BSI\BSI.Authentication\ResourceServer.Api\obj\Debug\ResourceServer.Api.pdb
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\ApplicationInsights.config
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\csc.exe
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\vbc.exe
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\VBCSCompiler.exe
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\ResourceServer.Api.dll.config
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\ResourceServer.Api.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\ResourceServer.Api.pdb
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\BussinessLogic.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\DataAccess.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.DependencyCollector.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.Web.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.WindowsServer.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.ApplicationInsights.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Cors.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Security.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Security.Jwt.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Newtonsoft.Json.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Owin.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Net.Http.Formatting.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Cors.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Helpers.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Http.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Http.Owin.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Http.WebHost.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Mvc.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Razor.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.WebPages.Deployment.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.WebPages.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.WebPages.Razor.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\WebActivatorEx.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Dapper.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\BussinessLogic.pdb
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\DataAccess.pdb
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.DependencyCollector.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.Web.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.AI.WindowsServer.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.ApplicationInsights.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Cors.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Security.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Security.Jwt.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Newtonsoft.Json.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Net.Http.Formatting.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Helpers.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Http.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Http.Owin.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Http.WebHost.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Mvc.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.Razor.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.WebPages.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.WebPages.Deployment.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\System.Web.WebPages.Razor.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\bin\Dapper.xml
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\obj\Debug\Bsi.AuthResourceServer.Api.csprojResolveAssemblyReference.cache
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\obj\Debug\ResourceServer.Api.dll
+F:\Project\BSI\BSI.Authentication\Bsi.AuthResourceServer.Api\obj\Debug\ResourceServer.Api.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\ApplicationInsights.config
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\csc.exe
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\System.Collections.Immutable.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\System.Reflection.Metadata.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\vbc.exe
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\VBCSCompiler.exe
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\roslyn\VBCSCompiler.exe.config
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\ResourceServer.Api.dll.config
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\ResourceServer.Api.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\ResourceServer.Api.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\BussinessLogic.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\DataAccess.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.DependencyCollector.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.Web.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.WindowsServer.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.ApplicationInsights.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Cors.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Security.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Security.Jwt.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Web.Infrastructure.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Newtonsoft.Json.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Owin.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Net.Http.Formatting.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Cors.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Helpers.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Http.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Http.Owin.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Http.WebHost.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Mvc.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Razor.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.WebPages.Deployment.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.WebPages.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.WebPages.Razor.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\WebActivatorEx.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Dapper.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\BussinessLogic.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\DataAccess.pdb
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.DependencyCollector.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.Web.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.AI.WindowsServer.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.ApplicationInsights.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Cors.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Security.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Security.Jwt.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Newtonsoft.Json.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Net.Http.Formatting.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Helpers.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Http.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Http.Owin.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Http.WebHost.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Mvc.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.Razor.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.WebPages.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.WebPages.Deployment.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\System.Web.WebPages.Razor.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\bin\Dapper.xml
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\obj\Debug\BSI.AuthResourceServer.Api.csprojResolveAssemblyReference.cache
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\obj\Debug\ResourceServer.Api.dll
+F:\Project\BSI\04 Construction\BSIDev\BSI.AuthResourceServer.Api\obj\Debug\ResourceServer.Api.pdb
