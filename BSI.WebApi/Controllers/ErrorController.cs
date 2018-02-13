@@ -26,5 +26,14 @@ namespace BSI.WebApi.Controllers
             // return 404
             return NotFound();
         }
+                
+        [HttpGet, HttpPost, HttpPut, HttpDelete, HttpHead, HttpOptions]
+        public IHttpActionResult BadRequest(string path)
+        {
+            // log error to Elmah
+            this.loggingService.Log(new HttpException(400, "400 Bad Request: /" + path));
+            // return 404
+            return BadRequest();
+        }
     }
 }

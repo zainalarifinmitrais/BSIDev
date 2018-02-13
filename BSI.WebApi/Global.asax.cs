@@ -22,8 +22,6 @@ namespace BSI.WebApi
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-            // replace ITraceWriter with NLogger
-            GlobalConfiguration.Configuration.Services.Replace(typeof(ITraceWriter), new NLogger());
         }
     }
 }

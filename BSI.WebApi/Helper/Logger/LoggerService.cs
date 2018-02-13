@@ -19,7 +19,7 @@ namespace BSI.WebApi.Helper
         public void Log(Exception exception)
         {
             // uncomment to enable Tracing.
-            Trace.TraceError(exception.ToString());
+            // Trace.TraceError(exception.ToString());
             // Log to Elmah.
             ErrorSignal.FromCurrentContext().Raise(exception, HttpContext.Current);
         }
